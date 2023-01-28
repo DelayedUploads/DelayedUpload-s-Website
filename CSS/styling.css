@@ -1,0 +1,54 @@
+header {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border: 10px static;
+    position: sticky;
+}
+.web-title {
+    position: sticky;
+    top: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+html {
+    background-color: rgb(235, 235, 235)
+}
+.VideoText {
+    background-color: lightblue;
+    padding: 3px;
+    margin: 10px;
+}
+.BottomVideoText {
+    background-color: gold;
+}
+.VideoText p {
+    background-color: white;
+    margin: 0;
+}
+.VideoText a {
+    background-color: white;
+    margin: 0;
+}
+body {
+    margin: 0;
+    height: 50px;
+}
+ul {
+    margin: 0;
+    height: 50px;
+}
+li {
+    width: 50px;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+.header-image {
+    background-image: url(../Images/channels4_profile.jpg);
+    background-position-x: center;
+    background-position-y: center;
+}
